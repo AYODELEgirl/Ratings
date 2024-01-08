@@ -1,0 +1,21 @@
+{
+  "name": "layout_project",
+  "version": "1.0.0",
+  "description": "rating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./layout.css -o ./Marvel/marvel.css --watch"
+  },
+  "keywords": [
+    "please",
+    "rate",
+    "our",
+    "services"
+  ],
+  "author": "MARVELLOUS",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
